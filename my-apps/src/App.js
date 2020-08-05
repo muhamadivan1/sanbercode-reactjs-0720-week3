@@ -7,9 +7,9 @@ import Clock from './tugas12/Clock'
 function App() {
   return (
     <div>
-      {/* tugas 1 */}
+      {/* tugas 11 */}
       <UserInfo/>
-      {/* tugas 2 */}
+      {/* tugas 12 */}
       <Timer start={120}/>
       <Clock/>
     </div>

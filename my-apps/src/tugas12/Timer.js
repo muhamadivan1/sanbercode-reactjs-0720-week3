@@ -39,7 +39,7 @@ class Timer extends Component{
     return(
       <>
         {this.state.time >= 0 &&
-        <h1 style={{textAlign: "center"}}>Hitung Mundur: {this.state.time} </h1>
+        <h1 style={{textAlign: "center"}}>Hitung Mundur: {this.state.time}</h1>
         }
       </>
     )
